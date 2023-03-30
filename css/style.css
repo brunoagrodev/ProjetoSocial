@@ -8428,7 +8428,7 @@ div.imagem{
   background-position: left bottom;
   color: white;
   box-shadow: inset 6px 6px 13px 0px rgba(0, 0, 0, 0.315);
-  background-image: linear-gradient(to bottom, rgba(0,0,0, 0.7), rgba(0,0,0,0.2)), url(../mídia/extra/bg-header.jpg);
+  background-image: linear-gradient(to bottom, rgba(0,0,0, 0.7), rgba(0,0,0,0.2)), url(../mídia/bg-header.jpg);
   /* background-image: linear-gradient(to top, rgba(0,0,0, 0.7), rgba(0,0,0,0.7)), url(../mídia/extra/violão-parallax.jpg); */
 }
 div.imagem p{
@@ -8452,4 +8452,13 @@ html{
   font-weight: 800;
   letter-spacing: 2px;
   font-size: 1.5 rem;
+}
+
+.dificuldades {
+  max-width: 50%;
+  margin: 0 auto;
+}
+
+.dificuldades p{
+  margin-bottom: 20px;
 }
