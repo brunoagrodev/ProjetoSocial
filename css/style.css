@@ -8330,6 +8330,24 @@ h1, h2, h3, h4, h5,
     filter: brightness(0.8);
   }
 
+
+/*IMAGENS*/
+#imggrafico,
+#imgrua{
+  border-radius: 5px;
+}
+
+#imgaviso{
+  height: 400px;
+  border-radius: 10px;
+  box-shadow: 10px 10px 5px #6eaeee;
+}
+
+/*Comentário das imagens*/
+blockquote{
+  color: grey;
+}
+
 /*FOOTER*/
 .footer-dark {
   padding:25px 0;
